@@ -1,3 +1,66 @@
 - name: 'devopsweekly #0'
   send: true
   content: []
+- name: 'devopsweekly #256'
+  send: false
+  content:
+  - title: "▶  Moving Fast at Scale"
+    url: https://weekly.statuscode.com/link/84830/web
+  - title: Let's Encrypt Rapidly Revoking Certain Certificates Later Today
+    url: https://weekly.statuscode.com/link/84831/web
+  - title: Top GitHub Best Practices for Developers — Expanded Guide
+    url: https://weekly.statuscode.com/link/84818/web
+  - title: Netlify Raises $53M Series C
+    url: https://weekly.statuscode.com/link/84833/web
+  - title: Handling Remote Access to Production Infrastructure (without VPNs?)
+    url: https://weekly.statuscode.com/link/84844/web
+  - title: So You Wanna Buy A Used IP Address Block?
+    url: https://weekly.statuscode.com/link/84843/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/84824/web
+  - title: Find a Dev Job Through Vettery
+    url: https://weekly.statuscode.com/link/84825/web
+  - title: A Half-Hour to Learn Rust
+    url: https://weekly.statuscode.com/link/84839/web
+  - title: How to Use Git History to Identify Pain Points in a Project?
+    url: https://weekly.statuscode.com/link/84842/web
+  - title: The DevSecOps Security Checklist
+    url: https://weekly.statuscode.com/link/84826/web
+  - title: Load Balancing PHP-FPM with HAProxy and FastCGI
+    url: https://weekly.statuscode.com/link/84859/web
+  - title: The Key Principles of Container Security
+    url: https://weekly.statuscode.com/link/84840/web
+  - title: How to Deploy on Remote Docker Hosts with docker-compose
+    url: https://weekly.statuscode.com/link/84841/web
+  - title: Using BPF to Transform SSH Sessions into Structured Events
+    url: https://weekly.statuscode.com/link/84846/web
+  - title: Handling 350k Requests for $3 using Lambda
+    url: https://weekly.statuscode.com/link/84845/web
+  - title: Why Cloudflare Chose AMD EPYC for Their New Servers
+    url: https://weekly.statuscode.com/link/84847/web
+  - title: 'Project LightSpeed: Rewriting Messenger to Be Faster, Smaller, and Simpler'
+    url: https://weekly.statuscode.com/link/84860/web
+  - title: I Want Off Mr. Golang's Wild Ride
+    url: https://weekly.statuscode.com/link/84848/web
+  - title: Simple Systems Have Less Downtime
+    url: https://weekly.statuscode.com/link/84849/web
+  - title: The Only Type of API Services I'll Use
+    url: https://weekly.statuscode.com/link/84850/web
+  - title: 'openapi-cop: A Proxy That Validates Responses and Requests Against an
+      OpenAPI Document'
+    url: https://weekly.statuscode.com/link/84851/web
+  - title: CouchDB 3.0 Now Available
+    url: https://weekly.statuscode.com/link/84852/web
+  - title: Faster CI/CD for All Your Software Projects Using Buildkite
+    url: https://weekly.statuscode.com/link/84827/web
+  - title: 'LangServer.org: Community-driven Knowledge About Language Server Protocol
+      Implementations'
+    url: https://weekly.statuscode.com/link/84854/web
+  - title: 'StorePreviewer: See What Your App Will Look Like on the App Store'
+    url: https://weekly.statuscode.com/link/84855/web
+  - title: 'Rome: A New Experimental JavaScript Toolchain from Facebook'
+    url: https://weekly.statuscode.com/link/84856/web
+  - title: 'isomorphic-git 1.0: It''s git but in Pure JavaScript'
+    url: https://weekly.statuscode.com/link/84857/web
+  - title: 'Heliocron: Run Programs in Relation to Daylight'
+    url: https://weekly.statuscode.com/link/84858/web
