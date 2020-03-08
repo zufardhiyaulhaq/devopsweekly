@@ -4,9 +4,9 @@ require_relative './github.rb'
 require 'yaml'
 
 github = GithubHandler.new(ENV['GITHUB_TOKEN'])
-devopsweekly = devopsweeklyHandler.new
+devopsweekly = DevopsweeklyHandler.new
 
-devopsweekly_new = Devopsweekly.scrape_information
+devopsweekly_new = devopsweekly.scrape_information
 devopsweekly_old, sha = github.get_file(
   ENV['REPOSITORY'],
   './content/devopsweekly.yaml'

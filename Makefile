@@ -1,2 +1,2 @@
 run-scrapper:
-		ruby lib/rubyweekly/main.rb
+		ruby lib/devopsweekly/main.rb
