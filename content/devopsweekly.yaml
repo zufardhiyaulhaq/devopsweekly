@@ -2,7 +2,7 @@
   send: true
   content: []
 - name: 'devopsweekly #256'
-  send: true
+  send: false
   content:
   - title: "▶  Moving Fast at Scale"
     url: https://weekly.statuscode.com/link/84830/web
