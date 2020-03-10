@@ -1,7 +1,7 @@
 # DevOpwWeekly
 Get data from statuscode.com and send to telegram via bot.
 
-### Rubyweekly Scrapper
+### DevOpsweekly Scrapper
 ```
 export GITHUB_TOKEN=YOURTOKEN
 export REPOSITORY=USERNAME/REPOSITORY
