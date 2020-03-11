@@ -64,3 +64,61 @@
     url: https://weekly.statuscode.com/link/84857/web
   - title: 'Heliocron: Run Programs in Relation to Daylight'
     url: https://weekly.statuscode.com/link/84858/web
+- name: 'devopsweekly #257'
+  send: false
+  content:
+  - title: The History of the URL
+    url: https://weekly.statuscode.com/link/85175/web
+  - title: 'A Look at Firecracker: AWS''s Lightweight Virtualization for Serverless
+      Applications'
+    url: https://weekly.statuscode.com/link/85177/web
+  - title: Build Video in Just Two API Calls
+    url: https://weekly.statuscode.com/link/85163/web
+  - title: PowerShell 7.0 Released
+    url: https://weekly.statuscode.com/link/85178/web
+  - title: 'Bottlerocket: A New Open Source OS for Container Hosting'
+    url: https://weekly.statuscode.com/link/85179/web
+  - title: Microsoft Unveils a Free Tier for Azure Cosmos DB
+    url: https://weekly.statuscode.com/link/85180/web
+  - title: The Life of a Data Byte
+    url: https://weekly.statuscode.com/link/85197/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/85171/web
+  - title: Find a Dev Job Through Vettery
+    url: https://weekly.statuscode.com/link/85172/web
+  - title: 'Feedback Ladders: The Code Review System Netlify Follows'
+    url: https://weekly.statuscode.com/link/85181/web
+  - title: "▶  How to Sell to 20M Software Developers with A Strong Onboarding Experience"
+    url: https://weekly.statuscode.com/link/85182/web
+  - title: Faster CI/CD for All Your Software Projects Using Buildkite
+    url: https://weekly.statuscode.com/link/85173/web
+  - title: 'Amazon''s Arm-based Graviton2 Against AMD and Intel: Comparing Cloud Compute'
+    url: https://weekly.statuscode.com/link/85183/web
+  - title: VMware Rejuvenates Once Again With Kubernetes Injection
+    url: https://weekly.statuscode.com/link/85184/web
+  - title: How I Built The Best-Selling BlackBerry App of All-Time
+    url: https://weekly.statuscode.com/link/85185/web
+  - title: The Story of the PS2’s Backwards Compatibility From the Engineer Who Built
+      It
+    url: https://weekly.statuscode.com/link/85186/web
+  - title: "“Let’s Use Kubernetes!” Now You Have 8 Problems"
+    url: https://weekly.statuscode.com/link/85187/web
+  - title: The Startup CTO Security Checklist
+    url: https://weekly.statuscode.com/link/85174/web
+  - title: Run More Stuff in Docker
+    url: https://weekly.statuscode.com/link/85188/web
+  - title: Managed Kubernetes Price Comparison
+    url: https://weekly.statuscode.com/link/85189/web
+  - title: 'Stryker: Test Your Tests with Mutation Testing'
+    url: https://weekly.statuscode.com/link/85190/web
+  - title: Memcached 1.6.0 Released
+    url: https://weekly.statuscode.com/link/85191/web
+  - title: 'Code Tour: A VS Code Extension for Recording and Playing Guided Tours
+      of Codebases'
+    url: https://weekly.statuscode.com/link/85192/web
+  - title: Introducing a Dart Runtime for AWS Lambda
+    url: https://weekly.statuscode.com/link/85193/web
+  - title: 'OpenSilver: A Modern, Plugin-Free Reimplementation of Silverlight'
+    url: https://weekly.statuscode.com/link/85194/web
+  - title: NoSQL Workbench for Amazon DynamoDB Now Generally Available
+    url: https://weekly.statuscode.com/link/85196/web
