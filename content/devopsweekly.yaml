@@ -65,7 +65,7 @@
   - title: 'Heliocron: Run Programs in Relation to Daylight'
     url: https://weekly.statuscode.com/link/84858/web
 - name: 'devopsweekly #257'
-  send: false
+  send: true
   content:
   - title: The History of the URL
     url: https://weekly.statuscode.com/link/85175/web
