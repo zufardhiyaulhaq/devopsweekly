@@ -169,5 +169,5 @@
       2020?'
     url: https://weekly.statuscode.com/link/85538/web
 - name: 'devopsweekly '
-  send: false
+  send: true
   content: []
