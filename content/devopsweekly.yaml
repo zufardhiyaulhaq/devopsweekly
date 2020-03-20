@@ -123,7 +123,7 @@
   - title: NoSQL Workbench for Amazon DynamoDB Now Generally Available
     url: https://weekly.statuscode.com/link/85196/web
 - name: 'devopsweekly #258'
-  send: false
+  send: true
   content:
   - title: Cloudflare on Recent Changes in Internet Traffic
     url: https://weekly.statuscode.com/link/85513/web
