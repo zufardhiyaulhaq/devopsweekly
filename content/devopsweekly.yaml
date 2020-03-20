@@ -122,3 +122,49 @@
     url: https://weekly.statuscode.com/link/85194/web
   - title: NoSQL Workbench for Amazon DynamoDB Now Generally Available
     url: https://weekly.statuscode.com/link/85196/web
+- name: 'devopsweekly #258'
+  send: false
+  content:
+  - title: Cloudflare on Recent Changes in Internet Traffic
+    url: https://weekly.statuscode.com/link/85513/web
+  - title: Finding a Problem at the Bottom of the Google Stack
+    url: https://weekly.statuscode.com/link/85514/web
+  - title: Hosted CI/CD for Teams That Don’t Like Bottlenecks
+    url: https://weekly.statuscode.com/link/85482/web
+  - title: 'JavaScript: The First 20 Years'
+    url: https://weekly.statuscode.com/link/85515/web
+  - title: npm is Joining GitHub
+    url: https://weekly.statuscode.com/link/85516/web
+  - title: Find a Dev Job Through Vettery
+    url: https://weekly.statuscode.com/link/85483/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/85484/web
+  - title: 'NTP: Building A More Accurate Time Service at Facebook Scale'
+    url: https://weekly.statuscode.com/link/85527/web
+  - title: Rust and Serverless, with a Focus on Cloudflare Workers
+    url: https://weekly.statuscode.com/link/85528/web
+  - title: End-to-End Observability for Microservice Environments
+    url: https://weekly.statuscode.com/link/85485/web
+  - title: How Netflix Uses Druid for Real-Time Insights
+    url: https://weekly.statuscode.com/link/85529/web
+  - title: The Anatomy of My Kubernetes Cluster
+    url: https://weekly.statuscode.com/link/85530/web
+  - title: How WebAssembly Brings Extensibility to Network Proxies
+    url: https://weekly.statuscode.com/link/85531/web
+  - title: On the Chronic Suffering of the VB.NET Community
+    url: https://weekly.statuscode.com/link/85532/web
+  - title: The Reckless, Infinite Scope of Web Browsers
+    url: https://weekly.statuscode.com/link/85533/web
+  - title: Several Grumpy Opinions About Remote Work and Videoconferencing
+    url: https://weekly.statuscode.com/link/85534/web
+  - title: Creative Commons Unveils a 'Catalog API' for Public Use
+    url: https://weekly.statuscode.com/link/85535/web
+  - title: 'Now Available: Amazon ElastiCache Global Datastore for Redis'
+    url: https://weekly.statuscode.com/link/85536/web
+  - title: Faster CI/CD for All Your Software Projects Using Buildkite
+    url: https://weekly.statuscode.com/link/85486/web
+  - title: 'Ask HN: Are There Good Self-Hosted Video Conference Tools?'
+    url: https://weekly.statuscode.com/link/85537/web
+  - title: 'Ask HN: Which Configuration Management Software Would/Should We Use in
+      2020?'
+    url: https://weekly.statuscode.com/link/85538/web
