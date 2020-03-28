@@ -172,7 +172,7 @@
   send: true
   content: []
 - name: 'devopsweekly #259'
-  send: false
+  send: true
   content:
   - title: Showing the World You Can Write a Cool Program Inside One Tweet
     url: https://weekly.statuscode.com/link/85845/web
