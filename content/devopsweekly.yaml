@@ -171,3 +171,60 @@
 - name: 'devopsweekly '
   send: true
   content: []
+- name: 'devopsweekly #259'
+  send: false
+  content:
+  - title: Showing the World You Can Write a Cool Program Inside One Tweet
+    url: https://weekly.statuscode.com/link/85845/web
+  - title: Why Cloudflare Started Putting Unpopular Assets in Memory
+    url: https://weekly.statuscode.com/link/85824/web
+  - title: 'Online Lab: Build a Blockchain App with JavaScript'
+    url: https://weekly.statuscode.com/link/85825/web
+  - title: O'Reilly Media Shutters In-Person Conferences Division
+    url: https://weekly.statuscode.com/link/85827/web
+  - title: FCC Opens Up Spectrum to Keep Mobile Data Smooth During Pandemic
+    url: https://weekly.statuscode.com/link/85826/web
+  - title: Deals on Services in the Time of COVID-19
+    url: https://weekly.statuscode.com/link/85850/web
+  - title: Find a Dev Job Through Vettery
+    url: https://weekly.statuscode.com/link/85831/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/85854/web
+  - title: 'x86''s EAX Register: Its History and Why It''s Called That'
+    url: https://weekly.statuscode.com/link/85832/web
+  - title: "▶  How Prince of Persia Defeated Apple II's Memory Limitations"
+    url: https://weekly.statuscode.com/link/85833/web
+  - title: Setting Up Git 'Identities'
+    url: https://weekly.statuscode.com/link/85835/web
+  - title: Faster CI/CD for All Your Software Projects Using Buildkite
+    url: https://weekly.statuscode.com/link/85836/web
+  - title: Converting an Old MacBook Into an Always-On Personal Kubernetes Cluster
+    url: https://weekly.statuscode.com/link/85837/web
+  - title: 'Software Development Trends 2019: Results from the Coding Sans Survey'
+    url: https://weekly.statuscode.com/link/85838/web
+  - title: Building an 8-Bit Home Computer With Just 6 Chips
+    url: https://weekly.statuscode.com/link/85839/web
+  - title: In Praise of S3, The Greatest Cloud Service of All Time
+    url: https://weekly.statuscode.com/link/85841/web
+  - title: Please Don't Write Your Documentation in Markdown
+    url: https://weekly.statuscode.com/link/85842/web
+  - title: Why Is Facebook Not in the Cloud Business?
+    url: https://weekly.statuscode.com/link/85855/web
+  - title: Emergency Website Kit
+    url: https://weekly.statuscode.com/link/85856/web
+  - title: 'Backstage: An Open Platform for Building Developer Portals from Spotify'
+    url: https://weekly.statuscode.com/link/85857/web
+  - title: '31 Days of #MarchMediaMadness. New Cloudinary Challenges, Win Daily'
+    url: https://weekly.statuscode.com/link/85844/web
+  - title: 'Git 2.26 Released: The Highlights'
+    url: https://weekly.statuscode.com/link/85843/web
+  - title: The First Docker GitHub Action is Available
+    url: https://weekly.statuscode.com/link/85859/web
+  - title: LLVM 10.0.0 Released
+    url: https://weekly.statuscode.com/link/85860/web
+  - title: 'Krucible: Temporary Kubernetes Clusters for Testing and Development'
+    url: https://weekly.statuscode.com/link/85861/web
+  - title: 'PGSync: Sync Postgres Data Between Databases'
+    url: https://weekly.statuscode.com/link/85862/web
+  - title: 'zig cc: A Powerful Drop-In Replacement for GCC/Clang'
+    url: https://weekly.statuscode.com/link/85863/web
