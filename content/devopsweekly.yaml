@@ -229,7 +229,7 @@
   - title: 'zig cc: A Powerful Drop-In Replacement for GCC/Clang'
     url: https://weekly.statuscode.com/link/85863/web
 - name: 'devopsweekly #260'
-  send: false
+  send: true
   content:
   - title: ACM Digital Library Open to All Until June 30, 2020
     url: https://weekly.statuscode.com/link/86114/web
