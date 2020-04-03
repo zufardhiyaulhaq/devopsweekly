@@ -228,3 +228,58 @@
     url: https://weekly.statuscode.com/link/85862/web
   - title: 'zig cc: A Powerful Drop-In Replacement for GCC/Clang'
     url: https://weekly.statuscode.com/link/85863/web
+- name: 'devopsweekly #260'
+  send: false
+  content:
+  - title: ACM Digital Library Open to All Until June 30, 2020
+    url: https://weekly.statuscode.com/link/86114/web
+  - title: OpenTelemetry Now in Beta
+    url: https://weekly.statuscode.com/link/86118/web
+  - title: The SaaS CTO Security Checklist
+    url: https://weekly.statuscode.com/link/86120/web
+  - title: How Are Unix Pipes Implemented?
+    url: https://weekly.statuscode.com/link/86121/web
+  - title: 'MeiliSearch: Fast, Open Source Full Text Search Database'
+    url: https://weekly.statuscode.com/link/86122/web
+  - title: An Architecture for a Multilingual Wikipedia
+    url: https://weekly.statuscode.com/link/86123/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/86134/web
+  - title: Find a Job Through Vettery
+    url: https://weekly.statuscode.com/link/86135/web
+  - title: How to Scope Down Pull Requests
+    url: https://weekly.statuscode.com/link/86136/web
+  - title: Finding the Right On-Premise PaaS for Kubernetes
+    url: https://weekly.statuscode.com/link/86137/web
+  - title: How To Make Life Easier When Using Git
+    url: https://weekly.statuscode.com/link/86138/web
+  - title: End-to-End Observability for Microservice Environments
+    url: https://weekly.statuscode.com/link/86139/web
+  - title: Understanding the Monty Hall Problem in Code
+    url: https://weekly.statuscode.com/link/86140/web
+  - title: A Sneaky Way to Sort 1 Million 8 Digit Numbers with 1 MB of RAM
+    url: https://weekly.statuscode.com/link/86142/web
+  - title: A Definitive Guide to Enabling Italics in Vim and tmux
+    url: https://weekly.statuscode.com/link/86144/web
+  - title: How to Use AWS Lambda Authorizers with Third-Party Identity Providers
+    url: https://weekly.statuscode.com/link/86146/web
+  - title: An Exploratory Guide to Service Mesh Platforms
+    url: https://weekly.statuscode.com/link/86148/web
+  - title: How to Burn The Most Money with a Single Click in Azure
+    url: https://weekly.statuscode.com/link/86150/web
+  - title: 'Lens: An Open Source IDE for Managing Kubernetes Clusters'
+    url: https://weekly.statuscode.com/link/86152/web
+  - title: 'simdjson 0.3: The Fastest JSON Parser in The World Is Even Better'
+    url: https://weekly.statuscode.com/link/86164/web
+  - title: Never Forget a // TODO Comment
+    url: https://weekly.statuscode.com/link/86157/web
+  - title: 'AsyncAPI: A Specification to Create Machine-Readable Definitions of Asynchronous APIs'
+    url: https://weekly.statuscode.com/link/86156/web
+  - title: 'Maza: A Local Ad Blocker That''s Like Pi-Hole but on Your Own OS'
+    url: https://weekly.statuscode.com/link/86159/web
+  - title: 'Kpt: A Kubernetes Packaging Tool from Google'
+    url: https://weekly.statuscode.com/link/86160/web
+  - title: 'Dolt: It''s Like Git But for Data'
+    url: https://weekly.statuscode.com/link/86161/web
+  - title: 'Secor: Persist Kafka Logs to S3, GCS, Azure, or Openstack Swift'
+    url: https://weekly.statuscode.com/link/86163/web
