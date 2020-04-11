@@ -283,3 +283,72 @@
     url: https://weekly.statuscode.com/link/86161/web
   - title: 'Secor: Persist Kafka Logs to S3, GCS, Azure, or Openstack Swift'
     url: https://weekly.statuscode.com/link/86163/web
+- name: 'devopsweekly #261'
+  send: false
+  content:
+  - title: 'Winddown: A VS Code Extension That Encourages You to Take a Break'
+    url: https://weekly.statuscode.com/link/86430/web
+  - title: 'WhyTheName: Why is That Unix Package Called That?'
+    url: https://weekly.statuscode.com/link/86431/web
+  - title: Top GitHub Best Practices for Developers - Expanded Guide
+    url: https://weekly.statuscode.com/link/86432/web
+  - title: Cloudflare Stops Using Google reCAPTCHA, Here's Why
+    url: https://weekly.statuscode.com/link/86524/web
+  - title: 'Ask HN: What Are Your Favorite Low-Coding Developer Apps and Tools?'
+    url: https://weekly.statuscode.com/link/86436/web
+  - title: "▶  On 'Good Enough' Architecture"
+    url: https://weekly.statuscode.com/link/86437/web
+  - title: A Tale of Recovering $300K of Bitcoin
+    url: https://weekly.statuscode.com/link/86438/web
+  - title: Find a Job Through Vettery
+    url: https://weekly.statuscode.com/link/86443/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/86444/web
+  - title: Code is Engineering, Types are Science
+    url: https://weekly.statuscode.com/link/86446/web
+  - title: 10 Things You Can Do Today to Reduce AWS Costs
+    url: https://weekly.statuscode.com/link/86447/web
+  - title: "\U0001F4CAGuide to Grafana: Building (Awesome) Visualizations"
+    url: https://weekly.statuscode.com/link/86449/web
+  - title: 'How to Flash an LED: Writing ARM Assembly for an STM32 Microcontroller'
+    url: https://weekly.statuscode.com/link/86450/web
+  - title: 'Ask HN: What Are Some Best Practices for Ethical Web Scraping?'
+    url: https://weekly.statuscode.com/link/86451/web
+  - title: Google's Technical Writing Courses
+    url: https://weekly.statuscode.com/link/86452/web
+  - title: How to Increase AWS EKS Availability with EC2 Spot
+    url: https://weekly.statuscode.com/link/86453/web
+  - title: Implementing a Forth in Assembly
+    url: https://weekly.statuscode.com/link/86454/web
+  - title: How We Reduced Our Google Maps API Cost By 94%
+    url: https://weekly.statuscode.com/link/86455/web
+  - title: One of My Favourite Diffs
+    url: https://weekly.statuscode.com/link/86456/web
+  - title: How We Abused Slack's TURN Servers to Gain Access to Internal Services
+    url: https://weekly.statuscode.com/link/86457/web
+  - title: 'MUST, SHOULD, DON''T CARE: TCP Conformance in the Wild'
+    url: https://weekly.statuscode.com/link/86458/web
+  - title: The Security Engineer’s First 90 Days Checklist
+    url: https://weekly.statuscode.com/link/86459/web
+  - title: A Funny Bit About Microservices
+    url: https://weekly.statuscode.com/link/86460/web
+  - title: How GOV.UK Notify Reliably Sends Text Messages to Users
+    url: https://weekly.statuscode.com/link/86461/web
+  - title: The State of Microservices 2020 Report
+    url: https://weekly.statuscode.com/link/86500/web
+  - title: 6 Things Markdown Got Wrong
+    url: https://weekly.statuscode.com/link/86462/web
+  - title: Choosing Between Rust or Go?
+    url: https://weekly.statuscode.com/link/86463/web
+  - title: 'Codeberg.org: A Free, Non-Commercial GitHub Alternative'
+    url: https://weekly.statuscode.com/link/86464/web
+  - title: Introducing Krustlet, the WebAssembly Kubelet
+    url: https://weekly.statuscode.com/link/86466/web
+  - title: 'oneinfra: A ''Kubernetes as a Service'' Platform'
+    url: https://weekly.statuscode.com/link/86467/web
+  - title: 'libcsp: A High Performance, CSP-Inspired Concurrency Library for C'
+    url: https://weekly.statuscode.com/link/86468/web
+  - title: 'Iced: A Cross-Platform GUI Library for Rust, Inspired by Elm'
+    url: https://weekly.statuscode.com/link/86470/web
+  - title: 'Valtan: A Common Lisp to JavaScript Compiler'
+    url: https://weekly.statuscode.com/link/86471/web
