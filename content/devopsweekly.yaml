@@ -284,7 +284,7 @@
   - title: 'Secor: Persist Kafka Logs to S3, GCS, Azure, or Openstack Swift'
     url: https://weekly.statuscode.com/link/86163/web
 - name: 'devopsweekly #261'
-  send: false
+  send: true
   content:
   - title: 'Winddown: A VS Code Extension That Encourages You to Take a Break'
     url: https://weekly.statuscode.com/link/86430/web
