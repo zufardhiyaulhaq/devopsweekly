@@ -353,7 +353,7 @@
   - title: 'Valtan: A Common Lisp to JavaScript Compiler'
     url: https://weekly.statuscode.com/link/86471/web
 - name: 'devopsweekly #262'
-  send: false
+  send: true
   content:
   - title: GitHub Shakes Up Pricing, Makes Most Core Features Free
     url: https://weekly.statuscode.com/link/86733/web
