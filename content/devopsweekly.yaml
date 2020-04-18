@@ -352,3 +352,65 @@
     url: https://weekly.statuscode.com/link/86470/web
   - title: 'Valtan: A Common Lisp to JavaScript Compiler'
     url: https://weekly.statuscode.com/link/86471/web
+- name: 'devopsweekly #262'
+  send: false
+  content:
+  - title: GitHub Shakes Up Pricing, Makes Most Core Features Free
+    url: https://weekly.statuscode.com/link/86733/web
+  - title: Comparing HTTP/3 vs. HTTP/2 Performance
+    url: https://weekly.statuscode.com/link/86734/web
+  - title: We Now Offer Remote Go, Docker or Kubernetes Training
+    url: https://weekly.statuscode.com/link/86769/web
+  - title: 'Ask HN: How to Rediscover the Joy of Programming?'
+    url: https://weekly.statuscode.com/link/86736/web
+  - title: How Deploys Work at Slack
+    url: https://weekly.statuscode.com/link/86737/web
+  - title: Full-Stack Developer (Skien, Norway)
+    url: https://weekly.statuscode.com/link/86770/web
+  - title: Find a Job Through Vettery
+    url: https://weekly.statuscode.com/link/86746/web
+  - title: 'The Death of Hype: What''s Next for Scala'
+    url: https://weekly.statuscode.com/link/86747/web
+  - title: The Case for Human-Centric Observability
+    url: https://weekly.statuscode.com/link/86771/web
+  - title: Clocking a 6502 to 15GHz
+    url: https://weekly.statuscode.com/link/86748/web
+  - title: The Malleable Systems Manifesto
+    url: https://weekly.statuscode.com/link/86750/web
+  - title: What Outranks Thread Priority?
+    url: https://weekly.statuscode.com/link/86749/web
+  - title: Why NextDNS Is My New Favourite DNS Service
+    url: https://weekly.statuscode.com/link/86751/web
+  - title: How to Monitor Your Web Page's Total Memory Usage with performance.measureMemory()
+    url: https://weekly.statuscode.com/link/86752/web
+  - title: How Anti-Cheat Systems Detect System Emulation
+    url: https://weekly.statuscode.com/link/86753/web
+  - title: "▶  Easy And Correct High Availability Postgres with Kubernetes"
+    url: https://weekly.statuscode.com/link/86755/web
+  - title: Some GitHub Pro-Tips Direct from GitHub
+    url: https://weekly.statuscode.com/link/86756/web
+  - title: Untangling Microservices, or Balancing Complexity in Distributed Systems
+    url: https://weekly.statuscode.com/link/86757/web
+  - title: "▶  Explore Your Microservices Architecture with Graph Theory and Network
+      Science"
+    url: https://weekly.statuscode.com/link/86758/web
+  - title: Continuous Deployments for WordPress Using GitHub Actions
+    url: https://weekly.statuscode.com/link/86760/web
+  - title: The DevSecOps Security Checklist
+    url: https://weekly.statuscode.com/link/86772/web
+  - title: A Beginners Guide to Basic Indexing in Postgres
+    url: https://weekly.statuscode.com/link/86759/web
+  - title: The Desmos Graphing Calculator
+    url: https://weekly.statuscode.com/link/86761/web
+  - title: All 200+ Google Cloud Products Described in 4 Words or Less
+    url: https://weekly.statuscode.com/link/86762/web
+  - title: IntelliJ IDEA 2020.1 Released
+    url: https://weekly.statuscode.com/link/86764/web
+  - title: 'Portray: A Python3 Documentation Generation Tool'
+    url: https://weekly.statuscode.com/link/86765/web
+  - title: 'mv.sh: Rename Files with mv Without Typing The Name Twice'
+    url: https://weekly.statuscode.com/link/86766/web
+  - title: 'regex2fat: Turn Your Favorite Regex into FAT32'
+    url: https://weekly.statuscode.com/link/86767/web
+  - title: The Simpsons in CSS
+    url: https://weekly.statuscode.com/link/86768/web
