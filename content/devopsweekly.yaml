@@ -415,7 +415,7 @@
   - title: The Simpsons in CSS
     url: https://weekly.statuscode.com/link/86768/web
 - name: 'devopsweekly #263'
-  send: false
+  send: true
   content:
   - title: The Devastating Decline of a Brilliant Young Coder
     url: https://weekly.statuscode.com/link/87125/web
