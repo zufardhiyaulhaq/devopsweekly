@@ -414,3 +414,64 @@
     url: https://weekly.statuscode.com/link/86767/web
   - title: The Simpsons in CSS
     url: https://weekly.statuscode.com/link/86768/web
+- name: 'devopsweekly #263'
+  send: false
+  content:
+  - title: The Devastating Decline of a Brilliant Young Coder
+    url: https://weekly.statuscode.com/link/87125/web
+  - title: How io_uring and eBPF Will Revolutionize Programming in Linux
+    url: https://weekly.statuscode.com/link/87126/web
+  - title: Slow CI Build? Get a 41:1 ROI by Switching to Semaphore
+    url: https://weekly.statuscode.com/link/87127/web
+  - title: "▶  Mob Programming and the Power of Flow"
+    url: https://weekly.statuscode.com/link/87128/web
+  - title: Cloudflare Workers Now Supports.. COBOL
+    url: https://weekly.statuscode.com/link/87129/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/87138/web
+  - title: Find a Job Through Vettery
+    url: https://weekly.statuscode.com/link/87139/web
+  - title: How 'Memories', a 256 Byte Demo, Was Coded
+    url: https://weekly.statuscode.com/link/87140/web
+  - title: The Computer Scientist Who Can’t Stop Telling Stories
+    url: https://weekly.statuscode.com/link/87142/web
+  - title: "▶  Discussing NGINX and Service Meshes with Alan Murphy"
+    url: https://weekly.statuscode.com/link/87143/web
+  - title: End-to-End Observability for Microservice Environments
+    url: https://weekly.statuscode.com/link/87144/web
+  - title: "▶  Performance Profiling for Web Applications"
+    url: https://weekly.statuscode.com/link/87145/web
+  - title: Are Object Stores Starting to Look Like Databases?
+    url: https://weekly.statuscode.com/link/87146/web
+  - title: The Case Against CS Master’s Degrees
+    url: https://weekly.statuscode.com/link/87147/web
+  - title: Why I Stopped Using Microservices
+    url: https://weekly.statuscode.com/link/87148/web
+  - title: 'Ask HN: I''m A Software Engineer Going Blind, How Should I Prepare?'
+    url: https://weekly.statuscode.com/link/87149/web
+  - title: Writing an 'Emulator' in JavaScript (and Interfacing with Multiple UIs)
+    url: https://weekly.statuscode.com/link/87151/web
+  - title: What It Took to Build a Serverless App That Texts Positive COVID-19 News
+    url: https://weekly.statuscode.com/link/87152/web
+  - title: If You Use grep On Text Files, Use the -a (--text) Option
+    url: https://weekly.statuscode.com/link/87153/web
+  - title: 'Event-Reduce: An Algorithm to Optimize Frequently Running Queries?'
+    url: https://weekly.statuscode.com/link/87154/web
+  - title: Embedding Binary Objects in C
+    url: https://weekly.statuscode.com/link/87155/web
+  - title: 'Desed: A Debugger for sed'
+    url: https://weekly.statuscode.com/link/87156/web
+  - title: 'Falcon: An Open-Source, Cross Platform SQL Client'
+    url: https://weekly.statuscode.com/link/87158/web
+  - title: The SaaS CTO Security Checklist
+    url: https://weekly.statuscode.com/link/87159/web
+  - title: 'Termible: Offer Terminal Apps in the Browser Without Installation'
+    url: https://weekly.statuscode.com/link/87160/web
+  - title: 'X410: An X Server for Windows 10'
+    url: https://weekly.statuscode.com/link/87162/web
+  - title: 60 Linux Networking Commands and Scripts
+    url: https://weekly.statuscode.com/link/87163/web
+  - title: 'Brök: A Tool to Find Broken Links in Text Documents'
+    url: https://weekly.statuscode.com/link/87164/web
+  - title: 'xsv: A Fast CSV Command Line Toolkit Written in Rust.'
+    url: https://weekly.statuscode.com/link/87165/web
