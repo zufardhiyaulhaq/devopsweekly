@@ -475,3 +475,65 @@
     url: https://weekly.statuscode.com/link/87164/web
   - title: 'xsv: A Fast CSV Command Line Toolkit Written in Rust.'
     url: https://weekly.statuscode.com/link/87165/web
+- name: 'devopsweekly #264'
+  send: false
+  content:
+  - title: Ubuntu 20.04 LTS (Focal Fossa) Released
+    url: https://weekly.statuscode.com/link/87457/web
+  - title: Things I Wished More Developers Knew About Databases
+    url: https://weekly.statuscode.com/link/87465/web
+  - title: Audit Every SQL Query
+    url: https://weekly.statuscode.com/link/87466/web
+  - title: How The Final Python 2 Release Marks the End of an Era
+    url: https://weekly.statuscode.com/link/87467/web
+  - title: AMP Introduces 'User-Friendly' Content Encryption Support
+    url: https://weekly.statuscode.com/link/87468/web
+  - title: Find a Job Through Vettery
+    url: https://weekly.statuscode.com/link/87475/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/87476/web
+  - title: Two Months with PowerShell on a UNIX
+    url: https://weekly.statuscode.com/link/87478/web
+  - title: "'Teleforking' a Process Onto a Different Computer"
+    url: https://weekly.statuscode.com/link/87480/web
+  - title: "▶  Discussing Serverless Use Cases with Gareth McCumskey"
+    url: https://weekly.statuscode.com/link/87481/web
+  - title: How Twitter Engineers Hunted Down a Linux Kernel Bug
+    url: https://weekly.statuscode.com/link/87482/web
+  - title: 'To Microservices and Back Again: Why Segment Went Back to a Monolith'
+    url: https://weekly.statuscode.com/link/87483/web
+  - title: How Mozilla Engineers Code Quality in the Firefox Browser
+    url: https://weekly.statuscode.com/link/87484/web
+  - title: 'The Tool That Really Runs Your Containers: Deep Dive Into runc and OCI
+      Specifications'
+    url: https://weekly.statuscode.com/link/87485/web
+  - title: Decoupling Larger Applications with Amazon EventBridge
+    url: https://weekly.statuscode.com/link/87487/web
+  - title: The Complete Guide to Distributed Tracing
+    url: https://weekly.statuscode.com/link/87488/web
+  - title: "▶  Discussing Docker and Kubernetes with Kelsey Hightower"
+    url: https://weekly.statuscode.com/link/87489/web
+  - title: A Variety of C Obfuscation Tricks
+    url: https://weekly.statuscode.com/link/87490/web
+  - title: Will It CORS?
+    url: https://weekly.statuscode.com/link/87491/web
+  - title: 'sls-dev-tools v1.0: Think DevTools But for Serverless'
+    url: https://weekly.statuscode.com/link/87492/web
+  - title: 'IPFS 0.5.0 Released: A Major Leap Forward for Peer to Peer Kind'
+    url: https://weekly.statuscode.com/link/87493/web
+  - title: The Super Simple AWS Storage Calculator
+    url: https://weekly.statuscode.com/link/87495/web
+  - title: Faster CI/CD for All Your Software Projects Using Buildkite
+    url: https://weekly.statuscode.com/link/87496/web
+  - title: Windows Terminal Preview v0.11 Release
+    url: https://weekly.statuscode.com/link/87497/web
+  - title: 'MsQuic: Microsoft Open Sources Its QUIC Library'
+    url: https://weekly.statuscode.com/link/87498/web
+  - title: 'Editly: Slick, Declarative Command Line Video Editing'
+    url: https://weekly.statuscode.com/link/87500/web
+  - title: 'Pomerium: An Identity-Aware Secure Access Proxy'
+    url: https://weekly.statuscode.com/link/87501/web
+  - title: '98.css: CSS for Building Faithful Recreations of Windows 98'
+    url: https://weekly.statuscode.com/link/87502/web
+  - title: 'pxy: A Go Livestream Proxy from WebSocket to External RTMP Endpoints'
+    url: https://weekly.statuscode.com/link/87503/web
