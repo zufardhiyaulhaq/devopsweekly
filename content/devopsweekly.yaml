@@ -476,7 +476,7 @@
   - title: 'xsv: A Fast CSV Command Line Toolkit Written in Rust.'
     url: https://weekly.statuscode.com/link/87165/web
 - name: 'devopsweekly #264'
-  send: false
+  send: true
   content:
   - title: Ubuntu 20.04 LTS (Focal Fossa) Released
     url: https://weekly.statuscode.com/link/87457/web
