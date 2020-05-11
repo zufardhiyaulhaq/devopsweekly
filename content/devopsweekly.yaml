@@ -537,3 +537,62 @@
     url: https://weekly.statuscode.com/link/87502/web
   - title: 'pxy: A Go Livestream Proxy from WebSocket to External RTMP Endpoints'
     url: https://weekly.statuscode.com/link/87503/web
+- name: 'devopsweekly #265'
+  send: false
+  content:
+  - title: 'Caddy 2: The Go-Powered Web Server with Automatic, Default TLS'
+    url: https://weekly.statuscode.com/link/87840/web
+  - title: Redis 6.0 Released
+    url: https://weekly.statuscode.com/link/87832/web
+  - title: Faster CI/CD for All Your Software Projects Using Buildkite
+    url: https://weekly.statuscode.com/link/87838/web
+  - title: An 'Extra Dumbed Down' Explanation of BGP
+    url: https://weekly.statuscode.com/link/87839/web
+  - title: How PHP is Beginning to Show Its Maturity
+    url: https://weekly.statuscode.com/link/87837/web
+  - title: What Netlify’s Infrastructure Team Learned As It Increased Deploy Speed
+      by Up to 2x
+    url: https://weekly.statuscode.com/link/87895/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/87850/web
+  - title: Find a Job Through Vettery
+    url: https://weekly.statuscode.com/link/87851/web
+  - title: How a Few Lines of Code Broke Lots of JavaScript Packages
+    url: https://weekly.statuscode.com/link/87853/web
+  - title: 'systemd, 10 Years Later: A Historical and Technical Retrospective'
+    url: https://weekly.statuscode.com/link/87856/web
+  - title: Initial Impressions of WSL 2
+    url: https://weekly.statuscode.com/link/87858/web
+  - title: What Port Numbers Do Developers Use Locally?
+    url: https://weekly.statuscode.com/link/87860/web
+  - title: "▶  A Language Head to Head: Kotlin 4 vs. Scala 3"
+    url: https://weekly.statuscode.com/link/87862/web
+  - title: "▶  Does Agile Make Us Less Secure?"
+    url: https://weekly.statuscode.com/link/87864/web
+  - title: How to Remain Agile with DynamoDB
+    url: https://weekly.statuscode.com/link/87897/web
+  - title: Using AWS CodeBuild to Execute Administrative Tasks
+    url: https://weekly.statuscode.com/link/87866/web
+  - title: Git Branch Naming Conventions
+    url: https://weekly.statuscode.com/link/87870/web
+  - title: Implementing Conway's Game of Life in 32 Bytes
+    url: https://weekly.statuscode.com/link/87872/web
+  - title: 'TLDR: Writing a Slack bot to Summarize Articles'
+    url: https://weekly.statuscode.com/link/87876/web
+  - title: OAuth 2.0 Security Best Current Practices
+    url: https://weekly.statuscode.com/link/87878/web
+  - title: Using PostgreSQL for JSON Storage
+    url: https://weekly.statuscode.com/link/87880/web
+  - title: 'Never IPv4: A Quick Way to Test Your IPv6 Support'
+    url: https://weekly.statuscode.com/link/87884/web
+  - title: 'actions-cli: Monitor Your GitHub Actions in Real Time from the Command
+      Line'
+    url: https://weekly.statuscode.com/link/87887/web
+  - title: Pixie Is Alive. Monitor & Trace K8s Apps On-Prem Without Changing Code
+    url: https://weekly.statuscode.com/link/87889/web
+  - title: Backblaze B2 Cloud Storage Now Has S3 Compatible APIs
+    url: https://weekly.statuscode.com/link/87890/web
+  - title: 'awesome-kubernetes: A Curated List for Awesome Kubernetes Sources'
+    url: https://weekly.statuscode.com/link/87892/web
+  - title: 'Rich: A Python Library for Rich Text and Beautiful Formatting in the Terminal'
+    url: https://weekly.statuscode.com/link/87893/web
