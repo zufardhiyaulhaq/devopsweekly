@@ -538,7 +538,7 @@
   - title: 'pxy: A Go Livestream Proxy from WebSocket to External RTMP Endpoints'
     url: https://weekly.statuscode.com/link/87503/web
 - name: 'devopsweekly #265'
-  send: false
+  send: true
   content:
   - title: 'Caddy 2: The Go-Powered Web Server with Automatic, Default TLS'
     url: https://weekly.statuscode.com/link/87840/web
