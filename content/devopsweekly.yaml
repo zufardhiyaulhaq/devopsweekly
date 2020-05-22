@@ -597,7 +597,7 @@
   - title: 'Rich: A Python Library for Rich Text and Beautiful Formatting in the Terminal'
     url: https://weekly.statuscode.com/link/87893/web
 - name: 'devopsweekly #267'
-  send: false
+  send: true
   content:
   - title: Windows Gets a Package Manager, a Terminal, Linux GUI Apps, and.. and..
     url: https://weekly.statuscode.com/link/88590/web
