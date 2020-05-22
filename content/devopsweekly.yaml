@@ -596,3 +596,64 @@
     url: https://weekly.statuscode.com/link/87892/web
   - title: 'Rich: A Python Library for Rich Text and Beautiful Formatting in the Terminal'
     url: https://weekly.statuscode.com/link/87893/web
+- name: 'devopsweekly #267'
+  send: false
+  content:
+  - title: Windows Gets a Package Manager, a Terminal, Linux GUI Apps, and.. and..
+    url: https://weekly.statuscode.com/link/88590/web
+  - title: Chrome's Secure DNS Plans for Safer, More Private Browsing
+    url: https://weekly.statuscode.com/link/88594/web
+  - title: We Now Offer Remote Go, Docker or Kubernetes Training
+    url: https://weekly.statuscode.com/link/88596/web
+  - title: Microsoft Unveils 'Azure Static Web Apps'
+    url: https://weekly.statuscode.com/link/88690/web
+  - title: Network-Layer DDoS Attack Trends for Q1 2020
+    url: https://weekly.statuscode.com/link/88597/web
+  - title: Find a Job Through Vettery
+    url: https://weekly.statuscode.com/link/88607/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/88641/web
+  - title: 'When SimCity Got Serious: The Story of Maxis Business Simulations'
+    url: https://weekly.statuscode.com/link/88609/web
+  - title: How DigitalOcean Scaled Droplet Public Networking
+    url: https://weekly.statuscode.com/link/88610/web
+  - title: 'Ask HN: Dear Open Source Devs How Do You Sustain Yourself?'
+    url: https://weekly.statuscode.com/link/88611/web
+  - title: The HTTP Headers You Don't Expect
+    url: https://weekly.statuscode.com/link/88612/web
+  - title: 'Ask HN: Is There Still a Place for Native Desktop Apps?'
+    url: https://weekly.statuscode.com/link/88613/web
+  - title: A Beginner Friendly Introduction to Prometheus
+    url: https://weekly.statuscode.com/link/88614/web
+  - title: "▶  The Top 10 Videos from RedisConf Takeaway"
+    url: https://weekly.statuscode.com/link/88616/web
+  - title: A Blueprint for Running Stateful Services on Kubernetes LogDNA
+    url: https://weekly.statuscode.com/link/88620/web
+  - title: What Every Developer Should Know About TCP
+    url: https://weekly.statuscode.com/link/88621/web
+  - title: 10 Most Common Mistakes When Using Kubernetes
+    url: https://weekly.statuscode.com/link/88622/web
+  - title: Understanding Database Query Planner Cost Models
+    url: https://weekly.statuscode.com/link/88623/web
+  - title: Automate Repetitive Tasks with Custom git Commands
+    url: https://weekly.statuscode.com/link/88640/web
+  - title: How to Set Up AWS Organizations with Google Suite SAML SSO
+    url: https://weekly.statuscode.com/link/88624/web
+  - title: Using lambda@Edge for Server-Side Rendering
+    url: https://weekly.statuscode.com/link/88625/web
+  - title: "▶  13 Talks from Failover Conf 2020"
+    url: https://weekly.statuscode.com/link/88626/web
+  - title: Getting Started with Rust by Building a Tiny Markdown Compiler
+    url: https://weekly.statuscode.com/link/88629/web
+  - title: 'Windows Terminal 1.0: A New Windows Command Line Option'
+    url: https://weekly.statuscode.com/link/88630/web
+  - title: Faster CI/CD for All Your Software Projects Using Buildkite
+    url: https://weekly.statuscode.com/link/88632/web
+  - title: 'Deno 1.0 Released: A New JavaScript Runtime (That Isn''t Node)'
+    url: https://weekly.statuscode.com/link/88598/web
+  - title: 'Amazon Kendra: Amazon''s New Take on Enterprise Search'
+    url: https://weekly.statuscode.com/link/88633/web
+  - title: 'NGINX Config: An Online NGINX Configuration File Generator'
+    url: https://weekly.statuscode.com/link/88635/web
+  - title: 'Guardian: A New Tool to Automate Serverless Best Practices'
+    url: https://weekly.statuscode.com/link/88636/web
