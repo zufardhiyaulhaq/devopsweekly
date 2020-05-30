@@ -658,7 +658,7 @@
   - title: 'Guardian: A New Tool to Automate Serverless Best Practices'
     url: https://weekly.statuscode.com/link/88636/web
 - name: 'devopsweekly #268'
-  send: false
+  send: true
   content:
   - title: Solving the 'Miracle Sudoku' in Prolog
     url: https://weekly.statuscode.com/link/89037/web
