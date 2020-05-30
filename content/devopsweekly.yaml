@@ -657,3 +657,69 @@
     url: https://weekly.statuscode.com/link/88635/web
   - title: 'Guardian: A New Tool to Automate Serverless Best Practices'
     url: https://weekly.statuscode.com/link/88636/web
+- name: 'devopsweekly #268'
+  send: false
+  content:
+  - title: Solving the 'Miracle Sudoku' in Prolog
+    url: https://weekly.statuscode.com/link/89037/web
+  - title: Amazon Web Services Described in One Line Each
+    url: https://weekly.statuscode.com/link/89039/web
+  - title: Git Best Practices for SOC 2 Compliance Quick Wins
+    url: https://weekly.statuscode.com/link/89040/web
+  - title: Google Fonts Is Fast. Now It’s Faster. Much Faster
+    url: https://weekly.statuscode.com/link/89082/web
+  - title: TimescaleDB, A Large Scale Postgres-Based Time-Series Database, Now Free
+    url: https://weekly.statuscode.com/link/89041/web
+  - title: A Jepsen Analysis of MongoDB 4.2.6
+    url: https://weekly.statuscode.com/link/89042/web
+  - title: Microsoft Open-Sources GW-BASIC (1983)
+    url: https://weekly.statuscode.com/link/89043/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/89054/web
+  - title: Find a Job Through Vettery
+    url: https://weekly.statuscode.com/link/89055/web
+  - title: Monte Carlo Forecasting in Software Delivery
+    url: https://weekly.statuscode.com/link/89057/web
+  - title: Scaling GitHub Action Runners on EC2 Spot Instances
+    url: https://weekly.statuscode.com/link/89058/web
+  - title: A Complete Walkthrough to Using WebGL
+    url: https://weekly.statuscode.com/link/89059/web
+  - title: 'The Incident Management Handbook: How to Deal with Being On-Call'
+    url: https://weekly.statuscode.com/link/89060/web
+  - title: What is Nix?
+    url: https://weekly.statuscode.com/link/89061/web
+  - title: Binpacking SQS Batches
+    url: https://weekly.statuscode.com/link/89063/web
+  - title: A Quick Comparison of Approaches to Multitenancy in Webapps
+    url: https://weekly.statuscode.com/link/89064/web
+  - title: Engineering a Better Working Group
+    url: https://weekly.statuscode.com/link/89065/web
+  - title: A Guide to Threat Modelling for Developers
+    url: https://weekly.statuscode.com/link/89066/web
+  - title: Prototyping at Slack
+    url: https://weekly.statuscode.com/link/89067/web
+  - title: 'Ask HN: Do You Still Use MongoDB?'
+    url: https://weekly.statuscode.com/link/89068/web
+  - title: What a Typical 100% Serverless Architecture Looks Like in AWS
+    url: https://weekly.statuscode.com/link/89069/web
+  - title: Building a Paperless, Remote Friendly Process with Go, Twilio and Google
+      Cloud Run
+    url: https://weekly.statuscode.com/link/89070/web
+  - title: 4 Things We Did to Reduce Our AWS Bill
+    url: https://weekly.statuscode.com/link/89071/web
+  - title: "▶  Discussing the Challenges of Distributed Messaging Systems"
+    url: https://weekly.statuscode.com/link/89072/web
+  - title: Today’s JavaScript, From An Outsider’s Perspective
+    url: https://weekly.statuscode.com/link/89073/web
+  - title: 'Windows 10 Quietly Got a Built-in Network Sniffer: pktmon'
+    url: https://weekly.statuscode.com/link/89074/web
+  - title: A REST Client Integrated into Visual Studio Code
+    url: https://weekly.statuscode.com/link/89076/web
+  - title: End-to-End Observability for Microservice Environments
+    url: https://weekly.statuscode.com/link/89077/web
+  - title: 'Quickref: An Experimental Search Engine for Developers'
+    url: https://weekly.statuscode.com/link/89078/web
+  - title: 'instant.page 5: A Way to Make Your Site''s Pages Feel Faster'
+    url: https://weekly.statuscode.com/link/89079/web
+  - title: The Top 5000 Most Common Domain Prefixes and Suffixes
+    url: https://weekly.statuscode.com/link/89080/web
