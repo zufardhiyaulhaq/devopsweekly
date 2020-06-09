@@ -723,3 +723,65 @@
     url: https://weekly.statuscode.com/link/89079/web
   - title: The Top 5000 Most Common Domain Prefixes and Suffixes
     url: https://weekly.statuscode.com/link/89080/web
+- name: 'devopsweekly #269'
+  send: false
+  content:
+  - title: The Stack Overflow Developer Survey 2020 Results
+    url: https://weekly.statuscode.com/link/89379/web
+  - title: Remote Instructor-Lead Go, Docker, Kubernetes & Python Training
+    url: https://weekly.statuscode.com/link/89380/web
+  - title: Why Is Kubernetes Getting So Popular?
+    url: https://weekly.statuscode.com/link/89381/web
+  - title: SQLite 3.32.0 Released
+    url: https://weekly.statuscode.com/link/89383/web
+  - title: 'Cloudflare Speed Test: Measure The Speed and Consistency of Your Connection'
+    url: https://weekly.statuscode.com/link/89386/web
+  - title: Find A Job Through Vettery
+    url: https://weekly.statuscode.com/link/89396/web
+  - title: Full-Stack Developer (Skien, Norway)
+    url: https://weekly.statuscode.com/link/89445/web
+  - title: "▶  A Practical-ish Introduction to Data Science"
+    url: https://weekly.statuscode.com/link/89398/web
+  - title: The Radix 2^51 Trick
+    url: https://weekly.statuscode.com/link/89399/web
+  - title: Habits of High-Functioning Software Teams
+    url: https://weekly.statuscode.com/link/89400/web
+  - title: Some Reminders of Good GitHub Etiquette
+    url: https://weekly.statuscode.com/link/89401/web
+  - title: Scale Your Software Projects Without Losing Speed
+    url: https://weekly.statuscode.com/link/89402/web
+  - title: "▶  Remote Development with Visual Studio Code"
+    url: https://weekly.statuscode.com/link/89403/web
+  - title: "▶  Making Music with Haskell From Scratch"
+    url: https://weekly.statuscode.com/link/89404/web
+  - title: Using Amazon Kendra to Help Answer 10th Standard Science Questions for
+      My Daughter
+    url: https://weekly.statuscode.com/link/89405/web
+  - title: How We’ve Evolved 'On-Call' at Monzo
+    url: https://weekly.statuscode.com/link/89407/web
+  - title: The Hard Parts of Learning a Programming Language
+    url: https://weekly.statuscode.com/link/89408/web
+  - title: Best Practices for Root Cause Analysis
+    url: https://weekly.statuscode.com/link/89409/web
+  - title: 'Compiling Rust Binaries for Windows 98 SE and More: A Journey'
+    url: https://weekly.statuscode.com/link/89410/web
+  - title: How We Reduced The AWS Costs of Our Streaming Data Pipeline by 67%
+    url: https://weekly.statuscode.com/link/89411/web
+  - title: 'Designing a New Functional Programming Language: Yatta'
+    url: https://weekly.statuscode.com/link/89412/web
+  - title: The Joy of Serverless
+    url: https://weekly.statuscode.com/link/89413/web
+  - title: 'Snowpack 2.0: A Build System for the Modern Web'
+    url: https://weekly.statuscode.com/link/89414/web
+  - title: 'JWT.IO: An Online JWT (JSON Web Token) Tool and Links to Libraries'
+    url: https://weekly.statuscode.com/link/89416/web
+  - title: 'streamhut: Stream Your Terminal to the Web Without Installing Anything'
+    url: https://weekly.statuscode.com/link/89417/web
+  - title: 'Perspective: Streaming Pivot Visualization via WebAssembly'
+    url: https://weekly.statuscode.com/link/89418/web
+  - title: Android Studio 4.0 Released
+    url: https://weekly.statuscode.com/link/89419/web
+  - title: 'Concurnas: A New JVM-Based Programming Language'
+    url: https://weekly.statuscode.com/link/89420/web
+  - title: 'fast_io: A C++ General-Purpose RAII I/O Library Based on C++ 20 Concepts'
+    url: https://weekly.statuscode.com/link/89421/web
