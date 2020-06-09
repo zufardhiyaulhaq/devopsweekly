@@ -724,7 +724,7 @@
   - title: The Top 5000 Most Common Domain Prefixes and Suffixes
     url: https://weekly.statuscode.com/link/89080/web
 - name: 'devopsweekly #269'
-  send: false
+  send: true
   content:
   - title: The Stack Overflow Developer Survey 2020 Results
     url: https://weekly.statuscode.com/link/89379/web
