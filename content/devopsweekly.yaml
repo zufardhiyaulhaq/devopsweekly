@@ -786,7 +786,7 @@
   - title: 'fast_io: A C++ General-Purpose RAII I/O Library Based on C++ 20 Concepts'
     url: https://weekly.statuscode.com/link/89421/web
 - name: 'devopsweekly #270'
-  send: false
+  send: true
   content:
   - title: Container Technologies at Coinbase (and Why Kubernetes Isn't There)
     url: https://weekly.statuscode.com/link/89800/web
