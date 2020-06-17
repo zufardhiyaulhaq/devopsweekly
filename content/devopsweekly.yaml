@@ -785,3 +785,58 @@
     url: https://weekly.statuscode.com/link/89420/web
   - title: 'fast_io: A C++ General-Purpose RAII I/O Library Based on C++ 20 Concepts'
     url: https://weekly.statuscode.com/link/89421/web
+- name: 'devopsweekly #270'
+  send: false
+  content:
+  - title: Container Technologies at Coinbase (and Why Kubernetes Isn't There)
+    url: https://weekly.statuscode.com/link/89800/web
+  - title: Running Awk in Parallel to Process 256M Records
+    url: https://weekly.statuscode.com/link/89801/web
+  - title: Remote Instructor-Lead Go, Docker, Kubernetes, & Python Training
+    url: https://weekly.statuscode.com/link/89802/web
+  - title: Why The Developers Who Use Rust Love It So Much
+    url: https://weekly.statuscode.com/link/89803/web
+  - title: Which Tools Have Made You a Much Better Programmer?
+    url: https://weekly.statuscode.com/link/89804/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/89812/web
+  - title: Find A Job Through Vettery
+    url: https://weekly.statuscode.com/link/89846/web
+  - title: A Guide to Writing a DNS Server From Scratch in Rust
+    url: https://weekly.statuscode.com/link/89815/web
+  - title: How GitBook's Domain Was Suspended by Google Domains
+    url: https://weekly.statuscode.com/link/89816/web
+  - title: Your Data Is Your Business
+    url: https://weekly.statuscode.com/link/89818/web
+  - title: How (and Why) Cloudflare Uses HashiCorp Nomad
+    url: https://weekly.statuscode.com/link/89819/web
+  - title: 'Hypermodern Python: A Modern Introduction to Python'
+    url: https://weekly.statuscode.com/link/89821/web
+  - title: How to Easily Rename Your Git Default Branch From master to main
+    url: https://weekly.statuscode.com/link/89822/web
+  - title: ZZT in Go (Using a Pascal-to-Go Converter)
+    url: https://weekly.statuscode.com/link/89823/web
+  - title: "▶  The Worst Typo I Ever Made"
+    url: https://weekly.statuscode.com/link/89826/web
+  - title: "▶  Kubernetes vs. Serverless with Matt Ward"
+    url: https://weekly.statuscode.com/link/89827/web
+  - title: 'CapRover: Build Your Own PaaS Quickly'
+    url: https://weekly.statuscode.com/link/89828/web
+  - title: Announcing MongoDB 4.4 and MongoDB Cloud
+    url: https://weekly.statuscode.com/link/89831/web
+  - title: 'whatfiles: Log What Files Are Accessed by Any Linux Process'
+    url: https://weekly.statuscode.com/link/89832/web
+  - title: 'The Incident Management Handbook: How To Deal With Being On-Call'
+    url: https://weekly.statuscode.com/link/89833/web
+  - title: Introducing the Swift AWS Lambda Runtime
+    url: https://weekly.statuscode.com/link/89834/web
+  - title: 'SendPortal: An Open Source Email Marketing System'
+    url: https://weekly.statuscode.com/link/89835/web
+  - title: 'UtahFS: An Encrypted File Storage System'
+    url: https://weekly.statuscode.com/link/89836/web
+  - title: 'Smocker: A Simple and Efficient HTTP Mock Server'
+    url: https://weekly.statuscode.com/link/89838/web
+  - title: 'topngx: Parse and Process NGINX Logs'
+    url: https://weekly.statuscode.com/link/89839/web
+  - title: 'printf-tac-toe: Tic-Tac-Toe in a Single Call to printf in C'
+    url: https://weekly.statuscode.com/link/89841/web
