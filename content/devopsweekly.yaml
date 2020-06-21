@@ -841,7 +841,7 @@
   - title: 'printf-tac-toe: Tic-Tac-Toe in a Single Call to printf in C'
     url: https://weekly.statuscode.com/link/89841/web
 - name: 'devopsweekly #271'
-  send: false
+  send: true
   content:
   - title: 'AWS CodeArtifact: A Managed Software Artifact Repository Service'
     url: https://weekly.statuscode.com/link/90263/web
