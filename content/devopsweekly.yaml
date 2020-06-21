@@ -840,3 +840,72 @@
     url: https://weekly.statuscode.com/link/89839/web
   - title: 'printf-tac-toe: Tic-Tac-Toe in a Single Call to printf in C'
     url: https://weekly.statuscode.com/link/89841/web
+- name: 'devopsweekly #271'
+  send: false
+  content:
+  - title: 'AWS CodeArtifact: A Managed Software Artifact Repository Service'
+    url: https://weekly.statuscode.com/link/90263/web
+  - title: How The Most Popular Chrome Extensions Impact Browser Performance
+    url: https://weekly.statuscode.com/link/90264/web
+  - title: The Startup’s Guide to AppSec
+    url: https://weekly.statuscode.com/link/90302/web
+  - title: JetBrains' 'State of the Developer Ecosystem' 2020
+    url: https://weekly.statuscode.com/link/90265/web
+  - title: Convergent Evolution, CDNs and the Cloud
+    url: https://weekly.statuscode.com/link/90266/web
+  - title: Apple Threatens to Move Basecamp's New Email App to Trash
+    url: https://weekly.statuscode.com/link/90267/web
+  - title: You Can Now Mount a Shared File System in AWS Lambda Functions
+    url: https://weekly.statuscode.com/link/90268/web
+  - title: Find a Job Through Vettery
+    url: https://weekly.statuscode.com/link/90303/web
+  - title: DevOps Engineer at X-Team (Remote)
+    url: https://weekly.statuscode.com/link/90309/web
+  - title: How to Run an Online Dev Conference / Event
+    url: https://weekly.statuscode.com/link/90276/web
+  - title: An Accessible Intro to Cloudflare Workers
+    url: https://weekly.statuscode.com/link/90278/web
+  - title: "Go from Zero to Grafana Hero \U0001F31F (5+ Tutorials)"
+    url: https://weekly.statuscode.com/link/90304/web
+  - title: A Tiny, Static, Full-Text Search Engine using Rust and WebAssembly
+    url: https://weekly.statuscode.com/link/90279/web
+  - title: 'Building a Successful DevOps Team: The Main Roles and Responsibilities'
+    url: https://weekly.statuscode.com/link/90281/web
+  - title: How x86_64 Addresses Memory
+    url: https://weekly.statuscode.com/link/90282/web
+  - title: Create Diagrams with Code using Graphviz
+    url: https://weekly.statuscode.com/link/90283/web
+  - title: Best Practices for Managing and Storing Secrets
+    url: https://weekly.statuscode.com/link/90284/web
+  - title: Best Practices for Root Cause Analysis
+    url: https://weekly.statuscode.com/link/90306/web
+  - title: Setting Up VS Code Development Using Docker Containers on a Remote Host
+    url: https://weekly.statuscode.com/link/90285/web
+  - title: 'Port 19: Good Intentions on the Old-Timey Internet'
+    url: https://weekly.statuscode.com/link/90286/web
+  - title: zsh and fish’s Simple Trick for Highlighting Missing Linefeeds
+    url: https://weekly.statuscode.com/link/90287/web
+  - title: Trying Python-Based Ansible Alternatives for Managing Infrastructure in
+      Code
+    url: https://weekly.statuscode.com/link/90288/web
+  - title: Finding Secrets by Decompiling Python Bytecode in Public Repos
+    url: https://weekly.statuscode.com/link/90290/web
+  - title: "▶  Tim Tries: Azure Static Web Apps"
+    url: https://weekly.statuscode.com/link/90291/web
+  - title: The Rise of Embarrassingly Parallel Serverless Compute
+    url: https://weekly.statuscode.com/link/90292/web
+  - title: Using SQLite as an Application File Format?
+    url: https://weekly.statuscode.com/link/90293/web
+  - title: 'PHP Goes Serverless: Introducing the New Serverless LAMP Stack'
+    url: https://weekly.statuscode.com/link/90294/web
+  - title: 'PostHog: Developer-Friendly, Open Source Product Analytics Where You Control
+      the Data'
+    url: https://weekly.statuscode.com/link/90295/web
+  - title: 'FFmpeg 4.3 Released: The Swiss Army Knife of Media Manipulation'
+    url: https://weekly.statuscode.com/link/90296/web
+  - title: A Jupyter Kernel for SQLite
+    url: https://weekly.statuscode.com/link/90297/web
+  - title: 'detect-secrets: A Way to Detect and Prevent Secrets in Code'
+    url: https://weekly.statuscode.com/link/90299/web
+  - title: 'XgeneCloud: Instant REST and GraphQL APIs on any Database'
+    url: https://weekly.statuscode.com/link/90300/web
