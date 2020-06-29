@@ -1,0 +1,11 @@
+---
+apiVersion: v1
+name: devopsweekly
+type: application
+version: 0.0.1
+appVersion: 0.0.1
+description: devopsweekly scrapper
+home: https://github.com/zufardhiyaulhaq/devopsweekly
+keywords:
+  - weekly
+  - devopsweekly
