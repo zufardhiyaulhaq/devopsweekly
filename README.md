@@ -1,41 +1,27 @@
 # devopsweekly
 Get data from weekly.statuscode.com and create Weekly CRDs based on community-operator & push to datastore
 
-### Developing locally
-- export this variable
+### Installing the charts
 ```
-export GITHUB_TOKEN="GITHUB_TOKEN"
-export GITHUB_ORGANIZATION="GITHUB_USERNAME/ORGANIZATION"
-export GITHUB_REPOSITORY="GITHUB_REPOSITORY"
-export GITHUB_REPOSITORY_PATH="GITHUB_REPOSITORY_PATH"
-export GITHUB_BRANCH="BRANCH"
-
-export COMMUNITY="COMMUNITY_NAME"
-export TAGS="TAGS"
-export NAMESPACE="CRD_NAMESPACE"
-export IMAGE="IMAGE_FOR_WEEKLY"
-```
-for example
-```
-export GITHUB_TOKEN="token"
-export GITHUB_ORGANIZATION="zufardhiyaulhaq"
-export GITHUB_REPOSITORY="community-ops"
-export GITHUB_REPOSITORY_PATH="./manifest/devops-community/"
-export GITHUB_BRANCH="master"
-
-export COMMUNITY="DevOps Indonesia Community"
-export TAGS="weekly,devops"
-export NAMESPACE="devops-community"
-export IMAGE="https://trungtq.com/wp-content/uploads/2018/12/GO-3.png"
-```
-- Build & Run
-```
-go build -o devopsweekly cmd/devopsweekly/*.go
-./devopsweekly
+helm repo add zufardhiyaulhaq https://charts.zufardhiyaulhaq.com/
+helm install zufardhiyaulhaq/devopsweekly --name-template devopsweekly -f values.yaml
 ```
 
-### Build Docker
-- To build your image
-```
-make build REPOSITORY=username/repository TAG=tag
-```
+### Configuration
+
+| Key | Type | Default | Description |
+|-----|------|---------|-------------|
+| community | string | `"DevOps Indonesia Community"` |  |
+| cronSchedule | string | `"0 8 * * 6"` |  |
+| github.branch | string | `"master"` |  |
+| github.organization | string | `"zufardhiyaulhaq"` |  |
+| github.repository | string | `"community-ops"` |  |
+| github.repository_path | string | `"./manifest/devops-community/"` |  |
+| github.token | string | `"your_token"` |  |
+| image.name | string | `"devopsweekly"` |  |
+| image.repository | string | `"zufardhiyaulhaq/devopsweekly"` |  |
+| image.tag | string | `"0.0.1"` |  |
+| image_url | string | `"https://storage.googleapis.com/blogs-images/ciscoblogs/1/5d37d7284e6e8.png"` |  |
+| jobHistoryLimit | int | `1` |  |
+| namespace | string | `"devops-community"` |  |
+| tags | string | `"weekly,devops"` |  |
