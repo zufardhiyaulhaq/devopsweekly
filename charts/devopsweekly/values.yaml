@@ -9,7 +9,7 @@ cronSchedule: "0 8 * * 6"
 image:
   name: "devopsweekly"
   repository: "zufardhiyaulhaq/devopsweekly"
-  tag: "latest"
+  tag: "0.0.1"
 
 #############################
 # envoronment configuration #
