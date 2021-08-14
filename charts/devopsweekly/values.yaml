@@ -1,37 +1,15 @@
 
-# define how many completed & failed pod jobs
-jobHistoryLimit: 1
+cronSchedule: "0 8 * * 0"
 
-# define time to exec the cronjob
-cronSchedule: "0 8 * * 6"
-
-# image cronjob configuration
 image:
-  name: "devopsweekly"
   repository: "zufardhiyaulhaq/devopsweekly"
-  tag: "0.0.1"
+  tag: "v1.0.0"
 
-#############################
-# envoronment configuration #
-#############################
+secret: ""
 
-# github configuration to store the CRDs
-github:
-  token: "your_token"
-  organization: "zufardhiyaulhaq"
-  repository: "community-ops"
-  repository_path: "./manifest/devops-community/"
-  branch: "master"
-
-# community name for CRDs
-community: "DevOps Indonesia Community"
-
-# tag for CRDs
-tags: "weekly,devops"
-
-# namespace for CRDs
-namespace: "devops-community"
-
-# image for CRDs
-image_url: "https://storage.googleapis.com/blogs-images/ciscoblogs/1/5d37d7284e6e8.png"
+weekly:
+  community: "DevOps Indonesia Community"
+  tags: "weekly,devops"
+  namespace: "devops-community"
+  image_url: "https://storage.googleapis.com/blogs-images/ciscoblogs/1/5d37d7284e6e8.png"
 

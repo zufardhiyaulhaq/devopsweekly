@@ -1,17 +1,36 @@
-# Dockerfile References: https://docs.docker.com/engine/reference/builder/
+#################
+# Base image
+#################
+FROM alpine:3.12 as devopsweekly-base
 
-# Start from the latest alpine
-FROM alpine
+USER root
 
-# Add Maintainer Info
-LABEL maintainer="Zufar Dhiyaulhaq <zufardhiyaulhaq@gmail.com>"
+RUN addgroup -g 10001 devopsweekly && \
+    adduser --disabled-password --system --gecos "" --home "/home/devopsweekly" --shell "/sbin/nologin" --uid 10001 devopsweekly && \
+    mkdir -p "/home/devopsweekly" && \
+    chown devopsweekly:0 /home/devopsweekly && \
+    chmod g=u /home/devopsweekly && \
+    chmod g=u /etc/passwd
 
-# Set the Current Working Directory inside the container
-WORKDIR /devopsweekly
+ENV USER=devopsweekly
+USER 10001
+WORKDIR /home/devopsweekly
 
-# Copy the source from the current directory to the Working Directory inside the container
-COPY devopsweekly .
-RUN chmod +x devopsweekly
+#################
+# Builder image
+#################
+FROM golang:1.15-alpine AS devopsweekly-builder
+RUN apk add --update --no-cache alpine-sdk
+WORKDIR /app
+COPY . .
+RUN make build
+
+#################
+# Final image
+#################
+FROM devopsweekly-base
+
+COPY --from=devopsweekly-builder /app/bin/devopsweekly /usr/local/bin
 
 # Command to run the executable
-ENTRYPOINT ["./devopsweekly"]
+ENTRYPOINT ["devopsweekly"]
