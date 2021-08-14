@@ -25,13 +25,13 @@ for example
 export GITHUB_TOKEN="token"
 export GITHUB_ORGANIZATION="zufardhiyaulhaq"
 export GITHUB_REPOSITORY="community-ops"
-export GITHUB_REPOSITORY_PATH="./manifest/devops-community/weekly/"
+export GITHUB_REPOSITORY_PATH="./argocd/devops-community/weekly/"
 export GITHUB_BRANCH="master"
 
 export WEEKLY_COMMUNITY="DevOps Indonesia Community"
 export WEEKLY_TAGS="weekly,devops"
 export WEEKLY_NAMESPACE="devops-community"
-export WEEKLY_IMAGE="https://www.purelogics.net/blog/wp-content/uploads/2019/01/devops.png"
+export WEEKLY_IMAGE="https://storage.googleapis.com/blogs-images/ciscoblogs/1/5d37d7284e6e8.png"
 ```
 
 - Lint, test, build, and run

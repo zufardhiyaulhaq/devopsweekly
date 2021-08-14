@@ -46,7 +46,7 @@ func (g DevOpsWeekly) GetName() (string, error) {
 func (g DevOpsWeekly) GetArticles() ([]communityv1alpha1.ArticleSpec, error) {
 	var articles []communityv1alpha1.ArticleSpec
 
-	response, err := http.Get("https://devopsweekly.com/issues/latest?layout=bare")
+	response, err := http.Get("https://weekly.statuscode.com/issues/latest?layout=bare")
 	if err != nil {
 		return articles, err
 	}
