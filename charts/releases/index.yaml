@@ -1,0 +1,49 @@
+apiVersion: v1
+entries:
+  devopsweekly:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2022-06-28T23:34:51.473922+07:00"
+    description: Get data from devops news and create Weekly CRDs based on community-operator
+      and push to git datastore
+    digest: 4d87a4946f2ac035d8720cf444d9f70c420f48647f174a7856351f493b644038
+    home: https://github.com/zufardhiyaulhaq/devopsweekly
+    maintainers:
+    - email: zufardhiyaulhaq@gmail.com
+      name: Zufar Dhiyaulhaq
+      url: https://zufardhiyaulhaq.com
+    name: devopsweekly
+    type: application
+    urls:
+    - devopsweekly-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-06-28T23:34:51.473086+07:00"
+    description: Get data from devops news and create Weekly CRDs based on community-operator
+      and push to git datastore
+    digest: 44bd9b71ac2044e5049a21aea55fef3243f8e118f501015c8fcfe29bc4814f9a
+    home: https://github.com/zufardhiyaulhaq/devopsweekly
+    maintainers:
+    - email: zufardhiyaulhaq@gmail.com
+      name: Zufar Dhiyaulhaq
+      url: https://zufardhiyaulhaq.com
+    name: devopsweekly
+    type: application
+    urls:
+    - devopsweekly-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2022-06-28T23:34:51.47192+07:00"
+    description: devopsweekly scrapper
+    digest: 2849710fbb454f98779a46c8fb3e5e7848c465d4df5a9875e151f112c51b70e1
+    home: https://github.com/zufardhiyaulhaq/devopsweekly
+    keywords:
+    - weekly
+    - devopsweekly
+    name: devopsweekly
+    urls:
+    - devopsweekly-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-06-28T23:34:51.470541+07:00"
