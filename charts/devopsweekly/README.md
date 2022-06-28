@@ -8,13 +8,13 @@ Get data from devops news and create Weekly CRDs based on community-operator and
 
 ## Installing the Chart
 
-To install the chart with the release name `my-release` and secret `foo`:
+To install the chart with the release name `my-devopsweekly` and secret `foo`:
 
 ```console
 kubectl apply -f secret.yaml
 
-helm repo add zufardhiyaulhaq https://charts.zufardhiyaulhaq.com/
-helm install devopsweekly zufardhiyaulhaq/devopsweekly --values values.yaml --set secret=foo
+helm repo add devopsweekly https://zufardhiyaulhaq.com/devopsweekly/charts/releases/
+helm install my-devopsweekly devopsweekly/devopsweekly --values values.yaml
 ```
 
 ## Values
