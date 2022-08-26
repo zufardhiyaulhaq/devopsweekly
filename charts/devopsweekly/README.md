@@ -21,7 +21,7 @@ helm install my-devopsweekly devopsweekly/devopsweekly --values values.yaml
 |-----|------|---------|-------------|
 | cronSchedule | string | `"0 8 * * 0"` |  |
 | image.repository | string | `"zufardhiyaulhaq/devopsweekly"` |  |
-| image.tag | string | `"v1.1.0"` |  |
+| image.tag | string | `"v2.0.0"` |  |
 | secret | string | `""` |  |
 | weekly.community | string | `"devops"` |  |
 | weekly.image_url | string | `"https://storage.googleapis.com/blogs-images/ciscoblogs/1/5d37d7284e6e8.png"` |  |
