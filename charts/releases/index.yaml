@@ -2,8 +2,24 @@ apiVersion: v1
 entries:
   devopsweekly:
   - apiVersion: v2
+    appVersion: 2.1.0
+    created: "2022-12-27T16:35:40.399624+07:00"
+    description: Get data from devops news and create Weekly CRDs based on community-operator
+      and push to git datastore
+    digest: 692ae3e2945c32a4ddb6b739137a8962b465d2e930e7d9a9e67138087c038cb7
+    home: https://github.com/zufardhiyaulhaq/devopsweekly
+    maintainers:
+    - email: zufardhiyaulhaq@gmail.com
+      name: Zufar Dhiyaulhaq
+      url: https://zufardhiyaulhaq.com
+    name: devopsweekly
+    type: application
+    urls:
+    - devopsweekly-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v2
     appVersion: 2.0.0
-    created: "2022-08-27T00:12:46.346618+07:00"
+    created: "2022-12-27T16:35:40.399258+07:00"
     description: Get data from devops news and create Weekly CRDs based on community-operator
       and push to git datastore
     digest: b98aded940f8a5db7c65c6aaba5b8d7d5118e992b1355a1b6459ff15c605efc9
@@ -19,7 +35,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2022-08-27T00:12:46.346086+07:00"
+    created: "2022-12-27T16:35:40.398496+07:00"
     description: Get data from devops news and create Weekly CRDs based on community-operator
       and push to git datastore
     digest: 46401fcd882bfe540e771d4047ce93681dee0bf76b5e27970045900ced60de17
@@ -35,7 +51,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-08-27T00:12:46.345198+07:00"
+    created: "2022-12-27T16:35:40.397636+07:00"
     description: Get data from devops news and create Weekly CRDs based on community-operator
       and push to git datastore
     digest: 44bd9b71ac2044e5049a21aea55fef3243f8e118f501015c8fcfe29bc4814f9a
@@ -51,7 +67,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-08-27T00:12:46.344127+07:00"
+    created: "2022-12-27T16:35:40.394948+07:00"
     description: devopsweekly scrapper
     digest: 2849710fbb454f98779a46c8fb3e5e7848c465d4df5a9875e151f112c51b70e1
     home: https://github.com/zufardhiyaulhaq/devopsweekly
@@ -62,4 +78,4 @@ entries:
     urls:
     - devopsweekly-0.0.1.tgz
     version: 0.0.1
-generated: "2022-08-27T00:12:46.342934+07:00"
+generated: "2022-12-27T16:35:40.394019+07:00"
